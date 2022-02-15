@@ -1,11 +1,11 @@
 body
 {
-	background: images 2.jpeg;
+	background: cyan;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: images 2.jpeg;
+		background: cyan;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
